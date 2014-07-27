@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-repo pour data science toolbox
+repo for data science toolbox
